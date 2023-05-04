@@ -9,7 +9,7 @@ This project was a challenge for me as a new web developper.
 
 ## Usage
 
-![Alt Text](assets/Screenshot .png)
+![Alt Text]([assets/Screenshot .png](https://github.com/audidi29/challenge_1_deploy/blob/d01ff7fa599e5522a520648e9479d23b7477df9f/assets/Screenshot%20.png))
 
 
 
