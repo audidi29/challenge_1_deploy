@@ -9,9 +9,8 @@ This project was a challenge for me as a new web developper.
 
 ## Usage
 
-```md
-    ![alt text](assets/Screenshot .png)
-    ```
+![Alt Text](assets/Screenshot .png)
+
 
 
 link to deployed application
